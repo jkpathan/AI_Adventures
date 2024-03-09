@@ -28,8 +28,8 @@ If you have a personal linux machine, skip the first set of instructions on sett
     `sudo passwd naziml`
 7. Allow inbound port 3389 to your VM, by going to portal.azure.com and for the NSG of your VM adding an allow rule for inbound port 3389
 
-## Step 2: Create and attach a 100G disk to VM
-API, models etc will take a lot of disk space, so you will need to mount external 100G disk so that your OS disk doesn't fill up. Use this link to go set this up. https://learn.microsoft.com/en-us/azure/virtual-machines/linux/add-disk?tabs=ubuntu 
+## Step 2: Create and attach a 1000G disk to VM
+API, models etc will take a lot of disk space, so you will need to mount external 1000G disk so that your OS disk doesn't fill up. Use this link to go set this up. https://learn.microsoft.com/en-us/azure/virtual-machines/linux/add-disk?tabs=ubuntu 
 
 ## Step 3: Install and configure Ollama
 1. SSH into your VM
