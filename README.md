@@ -1,7 +1,6 @@
 Adventures in AI by The Pathan along with his friends around the world
 
 Goals:
-*******
 1. Learn to develop AI by developing a sample app
 2. Use open source apps for development
 3. Long term - Start an AI business
